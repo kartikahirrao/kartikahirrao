@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kartikahirrao4@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1MId7TZ4qAdLtIAc4JwKwX7FnkydRGSXD/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1V81fpcnfiksZ3YXVyl-i2zPS7FSICakb/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
