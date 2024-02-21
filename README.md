@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Laravel - The PHP Framework **
+- 🌱 I’m currently learning **Laravel - The PHP Framework**
 
 - 👨‍💻 All of my projects are available at [https://kartikahirrao.github.io/portfoilio-website-host/](https://kartikahirrao.github.io/portfoilio-website-host/)
 
