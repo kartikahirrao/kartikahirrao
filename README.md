@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartik Ahirrao</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Laravel - The PHP Framework**
+- 🔭 I’m currently working on **Development Project**
 
 - 👨‍💻 All of my projects are available at [https://kartikahirrao.github.io/portfoilio-website-host/](https://kartikahirrao.github.io/portfoilio-website-host/)
 
-- 💬 Ask me about **Django and Laravel frameworks**
-
 - 📫 How to reach me **kartikahirrao4@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1xhiX1CDNhiPP2GioC8ojAVjdbbucZG37/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
