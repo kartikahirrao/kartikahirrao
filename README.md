@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working on **Development Project**
 
-- 👨‍💻 All of my projects are available at [https://kartikahirrao.github.io/portfoilio-website-host/](https://kartikahirrao.github.io/portfoilio-website-host/)
+-  🌱 Always eager to learn new technologies and improve my skills
+ 
+- 💬 Let's connect and talk about coding, technology, or anything interesting!
+
+- 👨‍💻 This is my Portfolio Website at [https://kartikahirrao.github.io/portfoilio-website-host/](https://kartikahirrao.github.io/portfoilio-website-host/)
 
 - 📫 How to reach me **kartikahirrao4@gmail.com**
 
